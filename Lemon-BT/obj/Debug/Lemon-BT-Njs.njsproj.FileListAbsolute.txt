@@ -1,0 +1,2 @@
+D:\Lemon-BT\Lemon-BT\obj\Debug\Lemon-BT-Njs.njsprojResolveAssemblyReference.cache
+D:\Lemon-BT\Lemon-BT\bin\Microsoft.NodejsTools.WebRole.dll
