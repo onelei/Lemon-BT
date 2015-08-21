@@ -2,7 +2,7 @@
 {
   "target_defaults": {
     "cflags": [],
-    "default_configuration": "Release",
+    "default_configuration": "Debug",
     "defines": [],
     "include_dirs": [],
     "libraries": []
@@ -44,8 +44,8 @@
     "v8_use_snapshot": "false",
     "visibility": "",
     "want_separate_host_toolset": 0,
-    "nodedir": "C:\\Users\\MI-32\\.node-gyp\\0.12.4",
-    "copy_dev_lib": "true",
+    "nodedir": "D:\\node-v0.12.7",
+    "copy_dev_lib": "false",
     "standalone_static_library": 1
   }
 }
