@@ -4,7 +4,8 @@
       "target_name": "lemonbt",
       "sources":
       [
-        "lemonbt.cpp",
+        "LemonBt.cpp"
+        "inc/LemonBt.h",
         "inc/Result.h",
         "inc/Node.h",
         "inc/Action.h",
